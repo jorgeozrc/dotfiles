@@ -1,0 +1,13 @@
+* {
+	bg:  #1D2021;
+	cur: #EBDBB2;
+	fgd: #EBDBB2;
+	cmt: #928374;
+	pur: #B16286;
+	blu: #458588;
+	ora: #FE8019;
+	pnk: #D3869B;
+	red: #CC241D;
+	yel: #D79921;
+	grn: #98971A;
+}
